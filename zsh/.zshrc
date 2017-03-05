@@ -88,7 +88,7 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 #echo $fg_bold[red] "$(cat ~/.unicorn.ascii)"
-echo $fg_bold[red] "$(cat ~/.athenadyn)"
+echo $fg_bold[red] "$(cat ~/.unicorn.ascii)"
 
 git config --global credential.helper cache
 
