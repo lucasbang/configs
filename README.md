@@ -1,2 +1,2 @@
 # configs
-Personalized system configurations
+Personalized system configurations.
