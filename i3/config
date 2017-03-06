@@ -2,6 +2,7 @@
 
 # install font-awesome
 # download system san francisco font
+# need to update ~/.gtkrc-2.0 font
 # install i3blocks
 # install pavuaudio for volume indication
 # install feh for background
