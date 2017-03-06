@@ -170,7 +170,7 @@ bindsym $mod+Shift+t exec thunar
 bindsym $mod+Shift+f exec firefox
 bindsym $mod+Shift+d exec thunar ~/Downloads
 bindsym $mod+Shift+s exec thunar ~/Dropbox
-bindsym $mod+Delete exec i3-exit
+bindsym Shift+Pause exec i3-exit
 bindsym $mod+Shift+p exec evince
 
 #bindsym --release $mod+z exec scrot -s "/home/bang/scrots/%Y_%m_%d_%H_%M_%S_scrot.png"
