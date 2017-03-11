@@ -188,7 +188,7 @@ mode "AppSelect" {
 	bindsym KP_Next   exec chromium-browser; mode default
 	bindsym KP_Left   exec mathematica; mode default
 	bindsym KP_Begin  exec octave --force-gui; mode default
-	bindsym KP_Right  exec subl; mode default
+	bindsym KP_Right  exec subl -n; mode default
  	bindsym KP_Home   exec inkscape; mode default
 	bindsym KP_Up     exec gimp; mode default
         bindsym KP_Divide exec gnome-calculator; mode default
