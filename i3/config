@@ -193,6 +193,7 @@ mode "AppSelect" {
 	bindsym KP_Up     exec gimp; mode default
         bindsym KP_Divide exec gnome-calculator; mode default
         bindsym KP_Prior  exec firefox; mode default
+        bindsym KP_Multiply  exec system-config-printer; mode default
 	bindsym Escape    mode default
 
 #Possible application launchers
